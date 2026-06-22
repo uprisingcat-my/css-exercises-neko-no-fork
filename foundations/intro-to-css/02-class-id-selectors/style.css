@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd-numbered {
+    background-color: #ffc0cb;
+    font-family: DejaVu Sans, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text24 {
+    font-size: 24px;
+}
+
+#sp-text-1 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#sp-text-2 {
+    background-color: hsl(120, 72%, 75%);
+    font-weight: bold;
+}
