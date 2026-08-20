@@ -22,7 +22,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
   padding: 16px;
-  gap: 12px;
+  gap: 16px;
 }
 
 .icon {
@@ -78,14 +78,11 @@ button.cancel {
   justify-content: space-between;
   font-weight: bold;
   font-size: 18px;
+  align-items: center;
+  margin-bottom: 8px;
 }
 
-.buttons, .text, .header {
-  display: flex;
-  padding: 4px;
-  gap: 4px;
-}
 
 .buttons{
-  margin-top: 8px;
+  margin-top: 16px;
 }
